@@ -1,0 +1,10 @@
+body {
+  margin: 0.5;
+  padding: 0.5;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #ffffff;
+  background-image: url("liz-warren-anti.png");
+  background-color #cccccc;
+  background-position: center;
+  background-size: cover;
+}
